@@ -5,4 +5,5 @@ study
 
 ![NKUST](nkust.png "高科大")
 
-- [ ] To do list
+- [x] To do list
+- [x] 2nd things
