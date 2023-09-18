@@ -2,7 +2,7 @@
 study
 ## ku
 ### ku
-
+[帥哥跳舞](https://reurl.cc/4W3dnv)
 ![NKUST](nkust.png "高科大")
 ***
 - [x] To do list
