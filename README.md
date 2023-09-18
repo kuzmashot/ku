@@ -1,7 +1,13 @@
 #  C110118180 黃科榤
 study
-## ku
-### ku
+## KKKK
+###  KKK
+* e
+* 0
+* 4
+1. HI
+2. BYE
+   
 [帥哥跳舞](https://reurl.cc/4W3dnv)
 ![NKUST](nkust.png "高科大")
 ***
