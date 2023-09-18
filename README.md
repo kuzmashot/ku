@@ -14,10 +14,12 @@ study
 - [x] To do list
 - [x] 2nd things
 ***
+# Python
 ```python
 s= "Python highLighting text"
 print(s)
 ```
+# javascript
 ```js
 var s ="javascript syntax text";
 alert(s)
