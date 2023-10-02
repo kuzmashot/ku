@@ -28,6 +28,6 @@ gantt
     使用者測試      :a11, after a9 and a10  , 25d
 ```
 # PERT圖
-![PERT](pert_diagram.png "PERT")
+![PERT](pert.png "PERT")
 # 關鍵路徑
 **關鍵路徑: 1-2-4-6-9-11**
