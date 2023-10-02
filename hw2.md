@@ -28,5 +28,5 @@ gantt
     使用者測試      :a11, after a9 and a10  , 25d
 ```
 # PERT圖
-
+![NKUST](pert_diagram.png"高科大")
 # 關鍵路徑
