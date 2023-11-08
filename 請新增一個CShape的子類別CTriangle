@@ -1,0 +1,44 @@
+class CShape {
+    protected String color;
+
+    public CShape(String color) {
+        this.color = color;
+    }
+
+    public double getArea() {
+        return 0.0;
+    }
+}
+
+class CTriangle extends CShape {
+    private double sideA;
+    private double sideB;
+    private double sideC;
+
+    public CTriangle(double a, double b, double c, String color) {
+        super(color);
+        sideA = a;
+        sideB = b;
+        sideC = c;
+    }
+
+    @Override
+    public double getArea() {
+        return 0.5 * sideA * sideB;
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        double a = 3.0;
+        double b = 4.0;
+        double c = 5.0;
+        String color = "紅色";
+
+        CTriangle triangle = new CTriangle(a, b, c, color);
+
+        System.out.println("三角形的顏色: " + triangle.color);
+        System.out.println("三角形的面積: " + triangle.getArea());
+    }
+}
+
